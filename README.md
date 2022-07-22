@@ -1,0 +1,1 @@
+# alistairbugaytech.blazor.identitycore
